@@ -1,0 +1,23 @@
+
+@media screen and (min-width: 760px) {
+
+	  .imm-sx {
+    	float: left;
+    	margin: 0 0 50px 0;
+    	width: 50%;
+      }
+
+      .descr-dx {
+      	float: right;
+      	width: 50%;
+      	padding-left: 5%;
+      }
+
+       .projects h2 {
+      margin-top: 0;
+      font-size: 1.3em;
+      }
+
+
+}
+

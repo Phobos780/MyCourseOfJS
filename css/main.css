@@ -1,0 +1,77 @@
+/*******************************************
+ GENERAL 
+******************************************/
+
+* {
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+	color:inherit;
+}
+
+body {
+
+	font-family: 'Josefin Sans', sans-serif;
+	color: #A69C7B;
+	
+}
+
+.clearfix::after {
+	content: " ";
+	display: table;
+	clear: both;
+}
+
+
+
+/*******************************************
+HEADER
+******************************************/
+
+
+.main-header {
+	position: relative;
+	background-color: #F3EACC;
+	padding: 5px;
+	text-align: center;
+}
+
+.top-logo {
+	width: 40px;
+}
+
+
+
+/*******************************************
+SEC HEADER
+******************************************/
+
+.secondary-header {
+	margin-bottom: 30px;
+	text-align: center;
+
+}
+
+h1 {
+	color: #A69C7B;
+	font-size: 1.3em;
+	font-weight: normal;
+}
+
+
+
+/*******************************************
+SECTION
+******************************************/
+
+.wrapper {
+	max-width: 760px;
+	margin: 0 auto;
+	padding: 40px 5% 40px 5%;
+}
+
+
+
+
