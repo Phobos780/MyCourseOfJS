@@ -826,8 +826,8 @@ compLaCol();//richiamo la funzione - con il suo nome + !parentesi!
 
 //*****  CONVERTER DA CELSIUS A FAHRENHEIT E VICEVERSA *****
 //***** un esercizio mio *****
-      var domandaGradi = prompt("QUANTI GRADI SONO ADESSO??");
-      var domandaFoC = prompt("Grazie. Sono "  + domandaGradi +  " gradi CELSIUS o FAHRENHEIT?");
+      var domandaGradi = prompt("CIAO. DIMMI QUANTI GRADI SONO ADESSO??");
+      var domandaFoC = prompt("Grazie :) Sono "  + domandaGradi +  " gradi CELSIUS o FAHRENHEIT?");
 
      if (domandaFoC.toUpperCase() === "CELSIUS") {
       var invertDaCelaFar = parseInt(domandaGradi) * 1.8 + 32;//formula di convertitore
