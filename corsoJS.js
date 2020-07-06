@@ -826,7 +826,7 @@ compLaCol();//richiamo la funzione - con il suo nome + !parentesi!
 
 //*****  CONVERTER DA CELSIUS A FAHRENHEIT E VICEVERSA *****
 //***** un esercizio mio *****
-      var domandaGradi = prompt("dimmi quanti gradi sono:");
+      var domandaGradi = prompt("QUANTI GRADI SONO ADESSO??");
       var domandaFoC = prompt("Grazie. Sono "  + domandaGradi +  " gradi CELSIUS o FAHRENHEIT?");
 
      if (domandaFoC.toUpperCase() === "CELSIUS") {
