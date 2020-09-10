@@ -254,7 +254,7 @@ document.write(studente.Eta);
 3. usare il ** PUSH ** e gli ARREY vuoti.
 */
 
-/*
+
 //prima di tutto dichiare le variabili e funzioni enecesri
 //creo un ARREY multiDimensionale con le domande.
 //creo 2 ARREY vuoti per le rispodte giuste e lerisposte sbagliate.
@@ -300,7 +300,7 @@ function stampaDomande(x) {
 document.write("Hai risposto corettamente a " + rispGiuste + " domande e hai guadagnato " + rispostaPunti + " punti. <br> ");
 document.write(" <h2> risposte corette: </h2> " + rispCorr);
 document.write(" <h2> risposte sbagliate: </h2> " + rispSbagl);
-*/
+
 
 
 
