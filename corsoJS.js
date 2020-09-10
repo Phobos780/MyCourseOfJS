@@ -823,7 +823,7 @@ compLaCol();//richiamo la funzione - con il suo nome + !parentesi!
               //************ IF - ELSE *************
               //************************************
 
-
+/*
 //*****  CONVERTER DA CELSIUS A FAHRENHEIT E VICEVERSA *****
 //***** un esercizio mio *****
       var domandaGradi = prompt("CIAO. DIMMI QUANTI GRADI SONO ADESSO??");
@@ -838,7 +838,7 @@ compLaCol();//richiamo la funzione - con il suo nome + !parentesi!
        var invertDaFaraCel = (parseInt(domandaGradi) - 32) * 5 / 9;//formula di convertitore
         document.write(domandaGradi + " gradi in [Fahrenheit] sono: " + invertDaFaraCel + " gradi in [Celsius]" );
   }
-
+*/
 
 //*****  SFIDA 3 QUIZ  *****
 /*
