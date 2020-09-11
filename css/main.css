@@ -12,10 +12,15 @@ a {
 }
 
 body {
-
+	background-color: #ccffcc;
 	font-family: 'Josefin Sans', sans-serif;
 	color: #008000;
 
+}
+
+h1{
+	font-size: 30px;
+	color: #ffcc66;
 }
 
 .clearfix::after {
