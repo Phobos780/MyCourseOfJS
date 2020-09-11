@@ -1,5 +1,5 @@
 /*******************************************
- GENERAL 
+ GENERAL
 ******************************************/
 
 * {
@@ -8,14 +8,14 @@
 
 a {
 	text-decoration: none;
-	color:inherit;
+	color: red;
 }
 
 body {
 
 	font-family: 'Josefin Sans', sans-serif;
-	color: #A69C7B;
-	
+	color: #008000;
+
 }
 
 .clearfix::after {
@@ -33,7 +33,7 @@ HEADER
 
 .main-header {
 	position: relative;
-	background-color: #F3EACC;
+	background-color: #3333ff;
 	padding: 5px;
 	text-align: center;
 }
@@ -71,7 +71,3 @@ SECTION
 	margin: 0 auto;
 	padding: 40px 5% 40px 5%;
 }
-
-
-
-
